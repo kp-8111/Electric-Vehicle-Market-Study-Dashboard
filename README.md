@@ -1,5 +1,4 @@
 ## Electric Vehicle Market Study Dashboard
-[View Dashboard](https://project.novypro.com/BUIYbl)
 
 ### Project Overview
 AtliQ Motors, an automotive leader in electric vehicles (EV), planned to launch its bestselling models in India. With less than 2% market share in India, a detailed market study was required to strategize expansion.
@@ -19,3 +18,5 @@ Analyze the existing EV and hybrid vehicle market in India to support data-drive
 ### Outcome
 Provided actionable insights to help AtliQ Motors make informed decisions, aiding their market entry strategy for India.
 
+## link
+[View Dashboard](https://project.novypro.com/BUIYbl)
